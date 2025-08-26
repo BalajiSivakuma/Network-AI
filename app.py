@@ -5,7 +5,7 @@ import google.generativeai as genai
 # PAGE CONFIGURATION
 # ------------------------
 st.set_page_config(
-    page_title="R J Benjamin Robert | AI Assistant",
+    page_title="Umagine AI",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -277,7 +277,7 @@ PROFILE INFORMATION:
 # ------------------------
 with st.sidebar:
     #st.image("https://i.imgur.com/gL4KZc2.jpeg", width=150)
-    st.title("N=Umagine AI")
+    st.title("Umagine AI")
     st.markdown("Umagine 2025")
     st.markdown("Your one stop AI assistant for Umagine 2025")
     st.divider()
@@ -330,6 +330,7 @@ if user_prompt := st.chat_input("Ask about his projects, skills, or vision..."):
 
     st.session_state.messages.append({"role": "assistant", "content": bot_reply})
     st.rerun()
+
 
 
 
