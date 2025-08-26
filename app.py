@@ -50,9 +50,7 @@ st.markdown(
 # PERSONAL DATA (THE "BRAIN")
 # ------------------------
 my_data = """
-Event Data: The 'Catalyst Startup Summit 2025'
 Event Overview
-
 Event Name: The Catalyst Startup Summit 2025
 
 Date: August 27, 2025
@@ -61,160 +59,44 @@ Venue: Grand Innovation Center, Chennai
 
 Tagline: "Igniting Connections, Fueling Futures"
 
-Stall Data (Ground Floor & First Floor)
-This is the main exhibition area with 100 stalls, organized by startup domain.
+Physical Venue Plan
+The event is hosted at the two-story Grand Innovation Center, with distinct zones on each floor designed to facilitate networking and knowledge sharing.
 
-FinTech: Stalls 1-10
+Ground Floor Plan:
 
-HealthTech: Stalls 11-20
+Main Entrance (Right Side): The primary entry point.
 
-EdTech: Stalls 21-30
+Registration Desks (Left of Entrance): Where attendees check-in and receive their event badges.
 
-SaaS & AI: Stalls 31-40
+Stall Exhibition Area (Central Hall):
 
-Mobility & Logistics: Stalls 41-50
+Ground Floor Left Side (Stalls 1-25): Primarily features startups in FinTech, HealthTech, and EdTech.
 
-FoodTech & AgriTech: Stalls 51-60
+Ground Floor Right Side (Stalls 26-50): Dedicated to SaaS & AI, and Mobility & Logistics startups.
 
-E-commerce & Retail: Stalls 61-70
+Courtyard & Food Zone (Rear of Venue): A large, open-air area at the back of the ground floor for lunch, snacks, and casual networking.
 
-Sustainable Tech & Clean Energy: Stalls 71-80
+Auditorium Alpha (Front, Left Side): The main auditorium for the opening keynote and closing ceremony.
 
-Creator Economy & Media: Stalls 81-90
+First Floor Plan:
 
-HR Tech & B2B Solutions: Stalls 91-100
+Stall Exhibition Area (Hallways):
 
-For the full list of 100 stalls with names, founders, and specific floor locations, please refer to the dummy data provided in the previous response.
+First Floor Left Side (Stalls 51-75): Features FoodTech, AgriTech, and E-commerce & Retail startups.
 
-Schedule of Events (All-Day)
-Time	Location	Event Description
-9:00 AM - 10:00 AM	Main Entrance	Registration & Welcome
-10:00 AM - 10:30 AM	Auditorium Alpha	Opening Keynote: "The Future of Innovation in India"
-10:30 AM - 1:00 PM	All Stalls	Stall Exhibition & Networking
-1:00 PM - 2:00 PM	Courtyard & Food Zone	Lunch Break
-2:00 PM - 5:00 PM	Hall Beta, Hall Gamma	Panel Discussions
-5:00 PM - 6:00 PM	Pitch Zone	1v1 Pitch Panels
-6:00 PM - 7:00 PM	Courtyard	Snacks & Open Networking
-7:00 PM - 7:30 PM	Auditorium Alpha	Closing Remarks & Award Ceremony
-7:30 PM onwards	Venue	Event Closeout
+First Floor Right Side (Stalls 76-100): Showcases Sustainable Tech, Clean Energy, Creator Economy, HR Tech, and B2B Solutions.
 
-Export to Sheets
-Panel Discussions
-Hall Beta: The "Tech for Good" Stage
+Hall Beta (First Floor, Left Corner): The "Tech for Good" stage for sustainability and social impact panel discussions.
 
-Panel 1 (2:00 PM - 3:00 PM)
+Hall Gamma (First Floor, Right Corner): The "Growth & Scale" stage for business and investment-focused panel discussions.
 
-Domain: Sustainable Tech & Clean Energy
+Pitch Zone (Hallway near Hall Gamma): A designated area with private booths for 1v1 pitch sessions with investors and mentors.
 
-Topic: "Building a Greener Future: Startups at the Forefront of Climate Action"
+Government Stalls (Stalls 96-100): Located at the far end of the First Floor, Right Side.
 
-Panelists: CEO of Eco-Innovate, Founder of GreenSpark (Stall 75), and a Partner from Impact Ventures.
+Incubator Zone (Stalls 101-110, Second Floor): A special, smaller zone on the floor above, dedicated to startups organized by their incubators.
 
-Panel 2 (3:00 PM - 4:00 PM)
-
-Domain: HealthTech & Wellness
-
-Topic: "Revolutionizing Healthcare: AI and Accessibility in Digital Health"
-
-Panelists: CEO of HealthConnect, Founder of MindfulMate (Stall 15), and a lead researcher from a local university.
-
-Panel 3 (4:00 PM - 5:00 PM)
-
-Domain: Social Impact
-
-Topic: "Scaling Social Ventures: From Idea to Impactful Enterprise"
-
-Panelists: Co-founder of a non-profit tech platform, Evelyn Martinez (Wantrepreneur), and a government representative.
-
-Hall Gamma: The "Growth & Scale" Stage
-
-Panel 1 (2:00 PM - 3:00 PM)
-
-Domain: FinTech & E-commerce
-
-Topic: "Navigating the Next Wave of Digital Payments and Retail"
-
-Panelists: A Director from HDFC Bank, Founder of CoinFlow (Stall 83), and a partner from Sequoia Capital.
-
-Panel 2 (3:00 PM - 4:00 PM)
-
-Domain: SaaS & AI
-
-Topic: "The AI Advantage: How Startups Are Leveraging Generative AI"
-
-Panelists: A CTO from a leading software company, Founder of DataDriven (Stall 99), and a senior AI engineer.
-
-Panel 3 (4:00 PM - 5:00 PM)
-
-Domain: Investments & Marketplaces
-
-Topic: "Decoding the Investor Mindset: What VCs Look for in a Pitch"
-
-Panelists: Jordan Patel (Investor), Mason Clark (Investor), and a senior partner from a prominent VC firm.
-
-Chief Guests
-Hon'ble Minister S. Kumar
-
-Role: Minister for IT & Startups
-
-Address Location: Auditorium Alpha (10:00 AM)
-
-Dr. Ananya Sharma
-
-Role: Renowned Technologist and Philanthropist
-
-Address Location: Hall Beta (Opening Panel)
-
-Sponsors
-Platinum Sponsor: "Innovate India" - A nationwide startup investment fund.
-
-Gold Sponsors: "GrowthEngine Tech" (SaaS Solutions), "FutureFin Capital" (FinTech Investor), "Vertex Ventures" (VC Firm)
-
-Silver Sponsors: "CloudSphere Solutions" (Cloud Computing), "Alpha Analytics" (Data Analytics Platform)
-
-Catering Sponsor: "Food Fusion"
-
-Organizers
-Lead Organizer: Startup Central
-
-Community Partners: Tech Entrepreneurs Guild, Founders Network India
-
-Event Management: Zenith Events
-
-Logistics & Special Zones
-Shuttle Service Locations:
-
-Location A: Central Metro Station
-
-Location B: Major Hotels District (List of 5 major hotels provided)
-
-Drop-off/Pickup: Main Entrance of Grand Innovation Center
-
-Food & Beverage Locations:
-
-Lunch: Courtyard Food Zone
-
-Snacks: Courtyard Food Zone (after 6 PM)
-
-Coffee & Tea Stations: Located at the center of each floor.
-
-1v1 Pitch Panels:
-
-Location: Pitch Zone, First Floor, Hallway near Hall Gamma
-
-Description: A dedicated area for pre-registered founders to have 1-on-1 pitch sessions with investors and mentors.
-
-Government Stalls:
-
-Location: Stall numbers 96-100, First Floor, Right Side
-
-Details: Stalls representing various government bodies and schemes for startups (e.g., Startup India, SIDBI, Make in India).
-
-Incubator-Wise Stalls:
-
-Location: Stalls 101-110, Second Floor (Exclusive Incubator Zone)
-
-Details: Startups are grouped by their incubator. For example, "Incubator X" will have Stalls 101-105, and "Incubator Y" will have 106-110.
+List of 50 Participating Startups
 Startup Name	Startup Domain	Founder Name
 FinTech		
 1. FinFlow	AI-Driven Personal Finance	Alex Chen
@@ -276,6 +158,58 @@ HR Tech & B2B Solutions
 48. LegalBot	Legal Document Automation	Andrew Hughes
 49. SecureFlow	B2B Cybersecurity Solutions	Cooper Brooks
 50. DataDriven	Enterprise Data Management	Nathan King
+
+Export to Sheets
+Schedule of Events (All-Day)
+Time	Location	Event Description
+9:00 AM - 10:00 AM	Main Entrance	Registration & Welcome
+10:00 AM - 10:30 AM	Auditorium Alpha	Opening Keynote: "The Future of Innovation in India"
+10:30 AM - 1:00 PM	All Stalls	Stall Exhibition & Networking
+1:00 PM - 2:00 PM	Courtyard & Food Zone	Lunch Break
+2:00 PM - 5:00 PM	Hall Beta, Hall Gamma	Panel Discussions
+5:00 PM - 6:00 PM	Pitch Zone	1v1 Pitch Panels
+6:00 PM - 7:00 PM	Courtyard	Snacks & Open Networking
+7:00 PM - 7:30 PM	Auditorium Alpha	Closing Remarks & Award Ceremony
+7:30 PM onwards	Venue	Event Closeout
+
+Export to Sheets
+Panel Discussions
+Hall Beta: The "Tech for Good" Stage
+
+Panel 1 (2:00 PM - 3:00 PM): Sustainable Tech & Clean Energy
+
+Panel 2 (3:00 PM - 4:00 PM): HealthTech & Wellness
+
+Panel 3 (4:00 PM - 5:00 PM): Social Impact
+
+Hall Gamma: The "Growth & Scale" Stage
+
+Panel 1 (2:00 PM - 3:00 PM): FinTech & E-commerce
+
+Panel 2 (3:00 PM - 4:00 PM): SaaS & AI
+
+Panel 3 (4:00 PM - 5:00 PM): Investments & Marketplaces
+
+Key Speakers & Event Partners
+Chief Guests:
+
+Hon'ble Minister S. Kumar (Minister for IT & Startups)
+
+Dr. Ananya Sharma (Renowned Technologist and Philanthropist)
+
+Sponsors:
+
+Platinum: "Innovate India"
+
+Gold: "GrowthEngine Tech," "FutureFin Capital," "Vertex Ventures"
+
+Silver: "CloudSphere Solutions," "Alpha Analytics"
+
+Organizers:
+
+Lead Organizer: Startup Central
+
+Community Partners: Tech Entrepreneurs Guild, Founders Network India"
 """
 
 # ------------------------
@@ -396,5 +330,6 @@ if user_prompt := st.chat_input("Ask about his projects, skills, or vision..."):
 
     st.session_state.messages.append({"role": "assistant", "content": bot_reply})
     st.rerun()
+
 
 
