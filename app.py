@@ -277,20 +277,20 @@ PROFILE INFORMATION:
 # ------------------------
 with st.sidebar:
     #st.image("https://i.imgur.com/gL4KZc2.jpeg", width=150)
-    st.title("R J Benjamin Robert")
-    st.markdown("*ECE Final Year | Tech Community Lead*")
-    st.markdown("Sathyabama Institute of Science and Technology")
+    st.title("N=Umagine AI")
+    st.markdown("Umagine 2025")
+    st.markdown("Your one stop AI assistant for Umagine 2025")
     st.divider()
-    st.subheader("💡 Example Questions")
-    st.info("🌟 What is Benjamin’s vision for the student community?")
-    st.info("🚀 Tell me about the RideRay project.")
-    st.info("🤝 What is his leadership experience?")
+    st.subheader(" Example Questions")
+    st.info(" What is todays agenda?")
+    st.info(" Tell me where the Fin-Tech startups are located")
+    st.info("Who are all the chief guests?")
 
 # ------------------------
 # MAIN CONTENT
 # ------------------------
-st.title("🤖 AI-Powered-Me")
-st.markdown("### Ask me anything about Benjamin Robert(Me)!")
+st.title("🤖 Umagine AI")
+st.markdown("### Ask me anything about Umagine 2025")
 st.divider()
 
 # ------------------------
@@ -330,6 +330,7 @@ if user_prompt := st.chat_input("Ask about his projects, skills, or vision..."):
 
     st.session_state.messages.append({"role": "assistant", "content": bot_reply})
     st.rerun()
+
 
 
 
